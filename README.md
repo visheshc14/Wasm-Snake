@@ -1,4 +1,4 @@
-# Wasm-Snae
+# Wasm-Snake
 
 A Simple Snake Game Implement Using WebAssembly & Rust.
 
