@@ -1,5 +1,5 @@
 [package]
-name = "wasm_snake"
+name = "wasmsnake"
 version = "0.1.0"
 authors = ["Vishesh Choudhary <vishachoudhary@gmail.com>"]
 
